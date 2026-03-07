@@ -47,9 +47,9 @@ RTX 4070 Super • 32GB RAM  • Ryzen 5700X3D
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArturKondratiuk&show_icons=true&theme=tokyonight) //service unavalaible currently
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArturKondratiuk&show_icons=true&theme=tokyonight) //service currently unavalaible
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArturKondratiuk&layout=compact&theme=tokyonight) //service unavalaible currently
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArturKondratiuk&layout=compact&theme=tokyonight) //service currently unavalaible
 
 ---
 
