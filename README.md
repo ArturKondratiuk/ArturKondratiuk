@@ -42,13 +42,14 @@ RTX 4070 Super • 32GB RAM  • Ryzen 5700X3D
 🔹 **Travel Website** – Multi-page tour booking site with dynamic pricing and payment page  
 🔹 **Movie Explorer** – Project for C# Exam
 🔹 **Delete-Small-files-script** – Deleting small files. Good for quickly cleaning files of large or small, customizable size in a specific directory
+🔹 **FileOrganizer** – Small CLI inside programm, can organize files and be used as simple windows CLI
 
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArturKondratiuk&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArturKondratiuk&show_icons=true&theme=tokyonight) //service unavalaible currently
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArturKondratiuk&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArturKondratiuk&layout=compact&theme=tokyonight) //service unavalaible currently
 
 ---
 
