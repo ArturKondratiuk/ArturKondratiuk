@@ -41,7 +41,9 @@ RTX 4070 Super • 32GB RAM  • Ryzen 5700X3D
 ## 🌟 Featured Projects
 🔹 **Travel Website** – Multi-page tour booking site with dynamic pricing and payment page  
 🔹 **Movie Explorer** – Project for C# Exam
+
 🔹 **Delete-Small-files-script** – Deleting small files. Good for quickly cleaning files of large or small, customizable size in a specific directory
+
 🔹 **FileOrganizer** – Small CLI inside programm, can organize files and be used as simple windows CLI
 
 ---
